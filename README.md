@@ -1,6 +1,6 @@
 # Robot Seguidor de Objetos con Visión Artificial
 
-Robot autónomo para seguimiento de objetivos mediante detección de color, implementado con Arduino Mega y cámara Pixy2. Diseñado para demostrar conceptos básicos de visión computacional y control de movimiento.
+Robot autónomo para seguimiento de objetivos mediante detección de color, implementado con Arduino Mega y cámara Pixy2.
 
 ---
 
