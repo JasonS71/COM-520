@@ -18,8 +18,8 @@ Robot autónomo para seguimiento de objetivos mediante detección de color, impl
 ### 1. Ensamblaje Mecánico
 1. **Montaje de motores**:
    - Fijar motorreductores en laterales del chasis
-   - Acoplar ruedas neumáticas a ejes motrices
-   - Instalar rueda loca en parte frontal/trasera
+   - Acoplar ruedas a los ejes de los motorreductores
+   - Instalar rueda loca en parte frontal
 
 2. **Integración de componentes**:
    - Fijar Arduino Mega en el chasis
