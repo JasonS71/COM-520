@@ -75,6 +75,4 @@ http://localhost:5000
 
 ## Demostración
 
-<video width="640" height="480" autoplay loop muted>
-  <source src="Video de demostración/Demostración del proyecto.mp4" type="video/mp4">
-</video>
+![Demostración del Sistema](https://imgur.com/a/gevx0oc)
