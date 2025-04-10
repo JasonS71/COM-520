@@ -75,5 +75,6 @@ http://localhost:5000
 
 ## Demostración
 
-![Demostración del Sistema](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2x6ZHIzaDJ4aTk0am4zajhrZzNucTN3M2J0dXFxZmtobTR2b3N3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OYeKGpnaLsi2CsIUu7/giphy.gif)
-
+<video width="640" height="480" autoplay loop muted>
+  <source src="Video de demostración/Demostración del proyecto.mp4" type="video/mp4">
+</video>
