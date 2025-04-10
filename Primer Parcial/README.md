@@ -75,4 +75,8 @@ http://localhost:5000
 
 ## Demostración
 
-![Demostración del Sistema](https://i.imgur.com/D18UYN0.gif)
+![video_demostracion](https://github.com/user-attachments/assets/f450ab6a-0414-44de-8e0c-3b2c293dee01)
+
+
+
+
