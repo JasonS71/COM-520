@@ -75,4 +75,4 @@ http://localhost:5000
 
 ## Demostración
 
-![Demostración del Sistema](https://imgur.com/a/gevx0oc)
+![Demostración del Sistema](https://i.imgur.com/D18UYN0.gif)
