@@ -146,6 +146,10 @@ Raspberry Pi 4
               (Adaptador a 1.8-22V DC)
 ```
 
+![diagram](https://github.com/user-attachments/assets/c4c2c205-d4a0-4baa-b17d-3e9a3b48d765)
+
+![Imagen de WhatsApp 2025-05-30 a las 01 44 41_f8fe1d7c](https://github.com/user-attachments/assets/7a6e9c9b-728f-41e7-b466-959451ddcd4f)
+
 ### Conexiones Detalladas
 
 #### Raspberry Pi a Controladores Motoron:
