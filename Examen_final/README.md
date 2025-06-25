@@ -4,6 +4,29 @@
 
 El proyecto consiste en un vehículo de pequeña escala que utiliza una Raspberry Pi como unidad de procesamiento principal. El sistema está diseñado para controlar motores mediante un driver especializado, permitiendo el movimiento preciso del vehículo.
 
+## Vista previa del proyecto
+
+A continuación se muestran imágenes del vehículo terminado:
+
+<div align="center">
+  <img src="img/Auto 1.jpg" alt="Vista del vehículo terminado" width="600">
+</div>
+
+### Vistas adicionales del vehículo
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="img/Auto 1.jpg" alt="Vista 1" width="300"></td>
+      <td><img src="img/Auto 2.jpg" alt="Vista 2" width="300"></td>
+    </tr>
+    <tr>
+      <td><img src="img/Auto 3.jpg" alt="Vista 3" width="300"></td>
+      <td><img src="img/Auto 4.jpg" alt="Vista 4" width="300"></td>
+    </tr>
+  </table>
+</div>
+
 ## Componentes del Sistema
 
 - Raspberry Pi (unidad de control)
